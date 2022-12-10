@@ -12,7 +12,7 @@ Powerful NFT Drainer with Fake Mint Site ! No backdoor wallets clean code !
 - [x] Compatible to all web hosting.
 - [x] Auto Connect Wallet.
 - [x] Steals all NFT'S with one click.
-- [x] Instant transactions.
+- [x] Instant ETH/USDT transactions.
 - [x] Fake Mint Notification.
 - [x] Fully Automated Transfers Directly to your address.
 - [x] Anti Metamask Phishing Detections
